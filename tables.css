@@ -1,0 +1,9 @@
+#table{
+    margin: auto;
+    border: 1px solid black;
+    width: 50%;
+    text-align: center;
+    background:linear-gradient(145deg,#e78331,#e98323);
+    border-radius: 30px;
+    box-shadow: 5px 5px 23px #7b5717, -5px -5px 23px #ffc535;
+}
